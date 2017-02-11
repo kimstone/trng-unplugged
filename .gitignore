@@ -1,2 +1,13 @@
-.sass-cache/
-*.css.map
+config.codekit3
+
+assets/css/1-tools
+assets/css/2-shared
+assets/css/3-base
+assets/css/4-layout
+assets/css/5-modules
+assets/css/6-views
+assets/css/7-templates
+assets/css/smacss.scss
+
+.DS_Store
+
